@@ -1,0 +1,74 @@
+body{
+    background-image: url('images/bg.jpg');
+    background-size: cover ;
+    
+}
+p{
+    color: rgba(11, 8, 72, 0.772);
+    font-weight: 200;
+    font-size: large;
+    box-shadow: 10px 20px 8px 5px rgb(1, 1, 155);
+    margin: 50px 180px;
+    
+}
+
+.secondp{
+    padding: 20px;
+    text-align:justify;
+    border-radius: 8px 30px;
+}
+.thirdp{
+    padding: 20px;
+    text-align:center;
+    border-radius: 30px 8px;
+}
+.list{
+    background-color:rgba(255, 255, 101, 0.445);
+    color: rgba(11, 8, 72, 0.772);
+    font-weight: 200;
+    padding: 20px;
+    text-align:justify;
+    border-radius: 8px 30px;
+    box-shadow: 10px 20px 8px 5px rgb(1, 1, 155);
+    margin: 50px 180px;
+}
+.cosa{
+    color:rgb(1, 1, 155);
+}
+#title{
+    color:rgb(1, 1, 155);
+    text-align: center;
+    background-image: url('images/ita.jpg');
+    background-size: cover;
+    margin: 50px 180px;
+    /* background-color: rgba(255, 255, 0, 0.306);
+    border: 50px;
+    margin: 0px 30px; */
+}
+#start{
+    text-align: center;
+    background-image: url('images/lidlbanner.jpg');
+    background-size:cover ;
+    padding: 30px 30px;
+    border-radius: 30px 20px;
+    margin: 50px 180px;
+    border: 10px solid teal;
+}
+.footer{
+    text-align: center;
+    font-weight: 800;
+}
+.form{
+    text-align: center;
+    background-color:rgba(255, 255, 101, 0.445);
+    padding: 30px 30px;
+    border-radius: 30px 20px;
+    box-shadow: 10px 20px 8px 5px rgb(1, 1, 155);
+    margin: 50px 180px;
+    font-size: larger;
+}
+input,textarea{
+    color: brown;
+    font-weight: bolder;
+    background-color: rgb(242, 242, 168);
+}
