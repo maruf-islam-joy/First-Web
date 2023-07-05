@@ -8,8 +8,11 @@ p{
     font-weight: 200;
     font-size: large;
     box-shadow: 10px 20px 8px 5px rgb(1, 1, 155);
-    margin: 50px 180px;
+    margin: 20px 50px;
     
+}
+.paragraph{
+    display:flex;
 }
 
 .secondp{
