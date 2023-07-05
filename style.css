@@ -30,10 +30,11 @@ p{
     color: rgba(11, 8, 72, 0.772);
     font-weight: 200;
     padding: 20px;
-    text-align:justify;
+    
     border-radius: 8px 30px;
     box-shadow: 10px 20px 8px 5px rgb(1, 1, 155);
-    margin: 50px 180px;
+    margin: 50px 480px;
+    /* display: flex; */
 }
 .cosa{
     color:rgb(1, 1, 155);
